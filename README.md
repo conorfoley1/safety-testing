@@ -6,7 +6,7 @@ https://community.macmillan.org.uk/cancer_experiences/ask_the_expert-forum/ask_a
 Manually write URLs to csv
 File: input_urls.csv
 
-3. Automated extraction of question/answer pairs
+Automated extraction of question/answer pairs
 Extraction script
 File: macmillan_ask_a_nurse_scrape.py
 
